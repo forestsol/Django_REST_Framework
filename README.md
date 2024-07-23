@@ -1,7 +1,4 @@
-# ossKobot_BACK README.md
-
-
-# ossKobot_BACK Setup 문서
+# Django_REST_Framework(Practice) README.md
 ## 요구사항
 
 ## 설치 및 실행 방법
